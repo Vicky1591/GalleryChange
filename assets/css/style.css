@@ -1,0 +1,26 @@
+*{
+	margin : 0px;
+	padding : 0px;
+	box-sizing : border-box;
+}
+
+.all div{
+	height : 300px;
+	border : 1px solid #ededed;
+}
+
+.red div{
+	background : red;
+}
+
+.yellow div{
+	background : yellow;
+}
+
+.green div{
+	background : green;
+}
+
+.orange div{
+	background : orange;
+}
